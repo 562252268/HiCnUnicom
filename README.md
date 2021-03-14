@@ -40,7 +40,7 @@ APPID(翻到下面有如何得到自己的APPID方法)
 
 ![](https://github.com/peng4740/HiCnUnicom/raw/master/assets/actions3.png)
 
-### 其他
+### 其
 
 1. 无需抓包获取appid方法(由群友提供)：  
 不会抓包的就去手机文件管理器，找到路径为 `/sdcard/Unicom/appid` 的文件打开复制。  
